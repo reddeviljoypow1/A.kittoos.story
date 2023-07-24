@@ -21,4 +21,4 @@ for i in range(5000):
   follow_button.click()
   time.sleep(2)
 # Close the browser window
-  driver.quit()​
+driver.quit()​
